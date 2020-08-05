@@ -4,7 +4,9 @@
 ### GitHub 
 - 网址: https://github.com/         
 
-
+- 创建完 repository 后，分别需要执行：
+    + git remote add origin git@github.com:hotpointchina/GitStady.git
+    + git push -u origin master
 
 
 
